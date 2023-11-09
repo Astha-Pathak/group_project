@@ -57,7 +57,7 @@ margin-top: 7%;
     top:14.5rem;
     left:32rem;
     color: white;
-    z-index:11;
+    z-index:9;
     font-size:2rem;
     padding: 1rem;
 }
@@ -93,7 +93,8 @@ display: none;
    justify-content: space-evenly;
    padding-top: 1.5rem;
    padding-bottom: 1.5rem;
-   position: sticky;
+   position:sticky;
+   background-color: dimgray;
    top:0;
    z-index: 10;
 }
@@ -150,4 +151,8 @@ display: none;
 }
 .tour{
     background-image: url(b4.jpg);
+    padding:20px;
+    font-weight: 300;
+    font-size: 17px;
+    font-style: italic;
 }
