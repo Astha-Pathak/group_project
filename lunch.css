@@ -1,0 +1,58 @@
+/* Reset some default browser styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color:#072541;
+    color: #F8BDEB;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.dish {
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+    background-color: #FBECB2;
+    box-shadow: 0px 0px 10px #5272F2;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.dish img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+h2 {
+    margin: 10px 0;
+    font-size: 1.5em;
+}
+
+.price {
+    color: #FF5722;
+    font-weight: bold;
+}

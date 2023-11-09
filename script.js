@@ -20,7 +20,7 @@ function highlightStars(rating) {
         } else {
             star.style.transform = "scale(1)";
         }
-    }
+    })
 }
 
 // Submit review
