@@ -1,3 +1,4 @@
+
 // Get all star elements
 const stars = document.querySelectorAll(".star");
 
@@ -47,4 +48,3 @@ function resetStars() {
         star.style.transform = "scale(1)";
     });
 }
-
