@@ -156,3 +156,17 @@ display: none;
     font-size: 17px;
     font-style: italic;
 }
+
+.h3:hover{
+    color: rgb(yellow);
+    font-weight: 500;
+   
+}
+
+.select:hover{
+    background-color: yellow;
+    color: black;
+    font-weight: 500;
+    box-shadow: 1px 1px 2px black;
+    transform: scale(1.1,1.1);
+}
