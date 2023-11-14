@@ -29,7 +29,7 @@
             <div class="nav"><a href="loginSignup.html">LOGIN</a></div>
             <div class="nav"><a href="index2.html">ABOUT US</a></div>
             <div class="nav"><a href="#">CONTACT US</a></div>
-            <div class="nav"><a href="Order.html">ORDER NOW</a></div>
+            <div class="nav"><a href="MyOrder.php">ORDER NOW</a></div>
             <div class="nav"><a href="index1.html">RATE US</a></div>
             
 
@@ -95,15 +95,8 @@ Shopping Guides: Streamline your food shopping experience with our handpicked re
 
 Newsletter: Stay connected with the latest food trends and updates by subscribing to our newsletter. Get mouthwatering recipes, cooking hacks, and culinary inspiration delivered straight to your inbox.<br>
 
-<<<<<<< HEAD
-Savory Bites is your culinary companion, where passion meets the plate. Join us in celebrating the world of food, from farm to fork. Whether you're a novice cook or a seasoned pro, our food website has something for everyone. Explore, learn, and savor the magic of food with us.Bon appétit!!!!
-=======
-Savory Bites is your culinary companion, where passion meets the plate. Join us in celebrating the world of food, from farm to fork. Whether you're a novice cook or a seasoned pro, our food website has something for everyone. Explore, learn, and savor the magic of food with us. Bon appétit!
-<iframe width="350" height="430" allow="microphone;" src="https://console.dialogflow.com/api-client/demo/embedded/df4a8173-5748-46ee-be3d-08cde1b26235"></iframe>
-=======
 Savory Bites is your culinary companion, where passion meets the plate. Join us in celebrating the world of food, from farm to fork. Whether you're a novice cook or a seasoned pro, our food website has something for everyone. Explore, learn, and savor the magic of food with us. Bon appétit!<br>
 <br><br>
->>>>>>> 22e8e27eadc9a962c4410cc859af6c565b51f627
 </div>    
 <link rel="stylesheet" href="index.css">
     <script>
