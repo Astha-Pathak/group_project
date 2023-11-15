@@ -1,0 +1,50 @@
+
+        body {
+            background-image: url('https://media.istockphoto.com/id/1297174004/photo/moqueca-with-fish-and-shrimps-in-black-bowl-on-dark-slate-table-top-brazilian-sea-food-curry.jpg?s=2048x2048&w=is&k=20&c=1Xtz__n7OafgNSZYC-4_QtAqOA31oijEY9iHh1qfE4w=');
+            background-size: cover;
+            background-repeat: no-repeat;
+            margin: 0;
+        }
+
+        h1 {
+            font-style: italic;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+            line-height: 2;
+            margin-top: 20px;
+            color: yellow; 
+        
+        }
+
+        .order {
+            color: #fff;
+            text-align: center; 
+            margin-bottom: 20px; 
+        }
+
+        p {
+            font-size: 30px;
+            color: #F99301;
+            margin-right: 500px;
+            margin-top: 100px;
+            color: #fac031;
+    font-family: mv boli;
+
+        }
+
+        table {
+            margin: 0 250px; 
+        }
+
+        th, td {
+            padding: 10px; 
+        }
+
+        th {
+            color: orange;
+        }
+
+        td {
+            color: aqua;
+        }
+    
