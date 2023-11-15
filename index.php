@@ -26,7 +26,7 @@
         <div id="nav">
             <div class="nav"><a href="loginSignup.html">LOGIN</a></div>
             <div class="nav"><a href="index2.html">ABOUT US</a></div>
-            <div class="nav"><a href="#">CONTACT US</a></div>
+            <div class="nav"><a href="contact.html">CONTACT US</a></div>
             <div class="nav"><a href="MyOrder.php">ORDER NOW</a></div>
             <div class="nav"><a href="index1.html">RATE US</a></div>
         </div>
